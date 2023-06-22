@@ -28,7 +28,7 @@ The model training process involves the following steps:
 
 To train the Vegetable and Fruit Classifier model, follow these steps:
 
-1. Import all the libraries included in the first cell, install the neccesary requirements provided in the requirements.txt file before running the first cell.
+1. Import all the libraries included in the first cell, install the neccesary requirements provided in the requirements.txt file before running the first cell. (!IMPORTANT: If running the notebook in colab, the requirements are preinstalled and are not required to be installed separately, solely importing them would suffice)
 
 2. Organize your dataset into the appropriate folder structure, with separate folders for each class and under train, test and validation folders.
 
